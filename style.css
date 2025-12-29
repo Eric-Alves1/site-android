@@ -190,3 +190,11 @@ footer {
   margin-top: 20px;
 }
 
+a {
+  color: white;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #130fff;
+}
