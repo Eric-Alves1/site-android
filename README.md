@@ -14,5 +14,5 @@ O objetivo principal foi praticar a estruturação de uma página utilizando ele
 - Melhoria da legibilidade e acessibilidade do HTML
 - Separação clara de conteúdo e layout
 
-[acesse o site abaixo]
+[acesse o site]
 (https://Eric-Alves1.github.io/projeto-android)
